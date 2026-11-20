@@ -1,6 +1,6 @@
 const CONFIG = {
   datapipe_id: 'DOjg9NpCAveI',
-  ethics_no: '2024-012',
+  ethics_no: '2026-033',
   completion_code: '739205',
   face_px: { w: 144, h: 180 },
   radius: 215,
